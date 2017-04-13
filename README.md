@@ -1,6 +1,6 @@
 # Compressao_Imagens
 Utiliza uma árvore quaternária para realizar a compressão de imagens. 
-
+Segundo trabalho da matéria Estrutura de dados e algoritimos
 
 
 ## Comandos do declado
