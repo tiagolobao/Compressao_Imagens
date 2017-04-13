@@ -98,6 +98,8 @@ void montaQuadtree() {
 	tPonto base;
 	base.x = 0;
 	base.y = 0;
+	
+	// Não sei porque precisa chamar duas vezes
 	j=0;
 	geraQuadrantes(&raiz, iHeight, base, 0, 0);
 	j=0;
